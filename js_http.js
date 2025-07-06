@@ -2,8 +2,6 @@
 "spider":"./jar/f0223.jar",
 "logo": "https://raw.githubusercontent.com/sqspot/tac/main/謝分享.gif",
 "lives":[
-{"name":"59高解析🇹🇼","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"60高解析🇹🇼","api":"csp_MQiTV","ext":"https://60.248.127.232:4433","jar":"./jar/fmMQiTV.jar","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YouTube🇹🇼","type": 0,"url": "./tvbus/YouTube(1).txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},    
 {"name":"只有CCTV3🇨🇳","url":"./tvbus/liveCCTV3.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"立視LiTV🇹🇼","type": 3,"api": "./py/live_litv.py","ext": {},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -13,6 +11,8 @@
 {"name":"Bee運動&電影","type":3,"api":"https://json.doube.eu.org/python/live_beesport.py","ext":{},"header":{"Referer":"https://p.m82xg4z0cdbz7.com/"},"epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live🇹🇼🇨🇳","url":"./tvbus/live.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"SMT直播🇹🇼🇨🇳","type": 3,"api": "https://json.doube.eu.org/python/live_smt.py","ext": {}},
+{"name":"59高解析🇹🇼","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/fmMQiTV.jar","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"60高解析🇹🇼","api":"csp_MQiTV","ext":"https://60.248.127.232:4433","jar":"./jar/fmMQiTV.jar","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"💿只有音樂","url":"./tvbus/music.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"🎬影視集1","url":"./直播源/影視集1.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
 {"name":"🎬影視集2","url":"./直播源/影視集2.txt","ua": "okhttp/3.15","epg": "https://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
